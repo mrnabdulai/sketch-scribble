@@ -32,6 +32,10 @@ The aim of this project is to create a scribble-like game called "Sketch scribbl
 - Random and simple word selection mechanism
 - scoring system to track and display points earned by users based on their guessing accuracy and timing
 
+### ✨ Live Project ✨
+
+https://scribble-app-a9d44.web.app/
+
 ### Technologies Used
 
 - **Frontend:** <img src="https://storage.googleapis.com/cms-storage-bucket/4fd0db61df0567c0f352.png"  height="22"> [Flutter](https://flutter.dev/)
